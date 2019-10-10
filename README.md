@@ -1,4 +1,8 @@
 # Node-project-kube
+
+![alt text](https://img.shields.io/docker/automated/timon02/node-replicas?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/tikam02/Node-project-kube?style=for-the-badge)
+
 *****
 - Node Project
 - Docker and Dockerfile
