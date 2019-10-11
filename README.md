@@ -60,7 +60,7 @@ For Running WebApp Clusters and Monitoring with Prometheus and Grafana
 
 - Download cluster Config file from owner of cluster and connect to the cluster:
 ```
- $ cd ~/.kube && kubectl --kubeconfig="clustename-kubeconfig.yaml" get nodes
+ $ cd ~/.kube && kubectl --kubeconfig="clustername-kubeconfig.yaml" get nodes
  ```
 
 - Get kubectl nodes:
