@@ -24,16 +24,10 @@ Stack - Node.js + Express.js + MongoDB + Docker + Kubernetes + Prometheus + Graf
 ### Node Project 
 For Running The web app locally:
 ```bash
-$  cd /local/node
+$  mv  /local/node  ~./home          //move node app to home directory because db setup at home for time to time restart.
 $ npm install
 $ node app.js 
 ```
-
-
-
-
- 
-
 
 
 
@@ -44,17 +38,17 @@ $ node app.js
 
 For Running web App in Docker 
 
-$ mv  /local/node  ~./home          //move node app to home directory because db setup at home for time to time restart.
+$ cd Node_Project or cd local/node    //Node_project - Production | local/node - local run
 
-$  docker build   -t  dockerhub-username/node-project .
+$ docker build   -t  dockerhub-username/node-project .
 
- $ docker images  -a     //check for build image
+$ docker images  -a     //check for build image
 
- $ docker push username/repository:tag
+$ docker push username/repository:tag
 
- $ docker-compose up --build  
+$ docker-compose up --build  
 
- $ Open --->  localhost:3000
+$ Open --->  localhost:3000
  
  ```
 
