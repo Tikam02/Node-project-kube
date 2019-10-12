@@ -3,7 +3,7 @@
 ![alt text](https://img.shields.io/docker/automated/timon02/node-replicas?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tikam02/Node-project-kube?style=for-the-badge)
 *********
-Stack - Node.js + Express.js + MongoDB + Docker + Kubernetes + Prometheus + Grafana
+Stack - Node.js + Express.js + MongoDB + Docker + Kubernetes + Prometheus + Grafana + Spekt8
 
 *****
 - Node Project
@@ -125,7 +125,10 @@ $ kubectl port-forward deployment/spekt8 3000:3000
 
 ![Prometheus](https://github.com/Tikam02/Node-project-kube/blob/master/images/prometheus.png)
 
+![Work flow](https://github.com/Tikam02/Node-project-kube/blob/master/images/workflow.png)
+
 ![Spekt8](https://github.com/Tikam02/Node-project-kube/blob/master/images/spek8.png)
+
 
 
 
