@@ -21,6 +21,14 @@ Stack - Node.js + Express.js + MongoDB + Docker + Kubernetes + Prometheus + Graf
 
 *********************
 
+
+![Work flow](https://github.com/Tikam02/Node-project-kube/blob/master/images/workflow.png)
+
+
+
+
+*********************
+
 ### Node Project 
 For Running The web app locally:
 ```bash
@@ -124,8 +132,6 @@ $ kubectl port-forward deployment/spekt8 3000:3000
 ![Grafana](https://github.com/Tikam02/Node-project-kube/blob/master/images/grafana.png)
 
 ![Prometheus](https://github.com/Tikam02/Node-project-kube/blob/master/images/prometheus.png)
-
-![Work flow](https://github.com/Tikam02/Node-project-kube/blob/master/images/workflow.png)
 
 ![Spekt8](https://github.com/Tikam02/Node-project-kube/blob/master/images/spek8.png)
 
