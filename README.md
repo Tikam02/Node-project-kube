@@ -1,7 +1,7 @@
 # Node-project-kube
 
 ![alt text](https://img.shields.io/docker/automated/timon02/node-replicas?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/tikam02/Node-project-kube?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/tikam02/Node-project-kube?style=for-the-badge) ![DevOps](https://img.shields.io/badge/DevOps-Kubernetes-blue?style=for-the-badge) ![APP](https://img.shields.io/badge/Fullstack-WebApp-blueviolet?style=for-the-badge)
 *********
 Stack - Node.js + Express.js + MongoDB + Docker + Kubernetes + Prometheus + Grafana + Spekt8
 
